@@ -55,4 +55,3 @@ def register(request):
                       'account/register.html',
                       {'user_form': user_form})
 
-
